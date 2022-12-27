@@ -1,5 +1,5 @@
 import twint 
-from replit import db
+
 
 #General search section
 looker = input("What are you wanting to search for:")
