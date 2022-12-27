@@ -1,0 +1,48 @@
+This is a compiled list of subjects to search for within the tool.
+It was made to simplify the process of finding out info on the Ukraine war.
+It is categorized in different section related to different parts of the war.
+At some point I will turn this into a searchable database.
+
+Countries:
+Ukraine
+Russia
+Poland 
+Belarus
+United States
+
+Leaders:
+Volodymyr Zelenskyy
+Vladimir Putin
+Joe Biden
+
+Weapons:
+Tanks
+Anti-aircraft
+Guns
+Knife
+APC
+Troop transport
+Airplane
+Grenades
+Rocket launchers
+Nuclear Weapons
+Nuclear Bombs
+Nukes
+
+
+Foriegn Aid to Ukraine: (Include "to Ukraine" at the end of every search operator in this category.)
+US Aid
+British Aid
+Poland Aid
+$40 Billion 
+Aid packages
+Biden aid to Ukraine
+
+Cyber:
+Hackers
+Hacker
+Cyber attack
+Cyber espionage
+Denial of Service
+DDOS
+Malware
