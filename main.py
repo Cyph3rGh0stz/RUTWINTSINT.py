@@ -4,9 +4,28 @@ import twint
 #General search section
 looker = input("What are you wanting to search for:")
 
+#Artillery search
+def artillery():
+  artillery = input("What Ukraine War artillery tweets do you want: ")
+
+  if artillery == "cannon, AA, anti-aircraft, self-propelled artillery ":
+    artillery()
+  else:
+    print ("Not valid search.")
+
+#Nuclear weapons search
+def nuke():
+  nuke = input("What Ukraine war nuclear tweets do you want to see: ")
+
+  if nuke == "nuke bomb, nuclear weapons, nuclear weapon, nuke, nuclear devie":
+    nuke()
+
+  else:
+    print ("Not a valid search.")
+
 #Tweets talking about vehicles
 def vehicles():
-    vehicles = input("What Ukraine War weapons tweets do you want: ")
+    vehicles = input("What Ukraine War wehicle tweets do you want: ")
 
     if vehicles == "tractors, tanks, tank support vehicles, IFV, infantry fighting vehicles, APC, armored personnel carrier, command vehicles, scout vehicle, recon vehicle, infantry mobility vehicles, recovery and engineering vehicles, utitility vehicle, transport vehicle,   ":
         vehicles()
