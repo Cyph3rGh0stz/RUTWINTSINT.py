@@ -6,3 +6,9 @@ Aside from searching for subjects you can search for users specifically dedicate
 Subjects.txt info:
 Subjects.txt is a a compilation of of subjects that can be used as search subjects in the script.
 
+Haghtag.txt info:
+Hashtagsandusers.txt is a compilation of hashtags and users that can be used as search subjects in the script.
+
+Usage:
+In order to use this script you must install Twint which on Linux you can with (pip3 install twint).
+Then download the script.
