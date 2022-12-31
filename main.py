@@ -79,3 +79,5 @@ c.search = location
 c.Near = origin
 c.Username = person
 c.Limit = limit
+
+twint.run.Search(c)
